@@ -1,0 +1,8 @@
+alias e='emacs -nw'
+alias o='open'
+alias l='ls -hlBFG'
+alias la='ls -ahlBFG'
+alias szsh='source ~/.zshrc'
+alias python3='/usr/local/bin/python3'
+alias pip3='/usr/local/bin/pip3'
+alias typora=open_typora
