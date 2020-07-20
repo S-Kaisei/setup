@@ -30,6 +30,11 @@ brew install emacs
 brew install python3
 ```
 
+## wget
+```sh
+brew install wget
+```
+
 ## Docker
 [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 
